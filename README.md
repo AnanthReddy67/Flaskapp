@@ -1,4 +1,4 @@
 # Flaskapp
-Full stack nano degree project
-name:Vennapusa Ananthreddy
+Full Stack Nano Degree Project
+Name:Vennapusa Ananthreddy
 ROllNO:17471A0534
